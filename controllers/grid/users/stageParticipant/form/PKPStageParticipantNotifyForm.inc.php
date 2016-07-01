@@ -59,6 +59,7 @@ class PKPStageParticipantNotifyForm extends Form {
 	 * @copydoc Form::fetch()
 	 */
 	function fetch($request) {
+		$submissionDao = Application::getSubmissionDAO();
 		$submission = $submissionDao->getById($this->_submissionId);
 
 		// All stages can choose the default template
