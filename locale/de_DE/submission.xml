@@ -25,6 +25,8 @@
 	<message key="submission.submit.whatNext.create">Eine neue Einreichung erstellen</message>
 	<message key="submission.submit.whatNext.return">Zum Dashboard zurückkehren</message>
 	<message key="submission.submit.extendedMetadata">Erweiterte Metadaten</message>
+	<message key="submission.submit.userGroup">Einreichen in meiner Rolle als...</message>
+	<message key="submission.submit.userGroupDescription">Wählen Sie die Rolle, in der Sie diesen Beitrag einreichen wollen.</message>
 	<!-- FIXME: move to meta-data plug-ins -->
 	<!-- messages used by meta-data filters -->
 	<message key="metadata.filters.crossref.settings.email.displayName">Bei CrossRef registrierte E-Mail-Adresse</message>
@@ -261,6 +263,7 @@
 	<message key="submission.email.confirmDeleteLogEntry">Sind Sie sicher, dass Sie diesen Eintrag im E-Mail-Protokoll löschen wollen?</message>
 	<message key="submission.email.deleteLogEntry">Eintrag löschen </message>
 	<message key="submission.emailLog">E-Mail-Protokoll</message>
+	<message key="submission.issueEntry">Metadaten</message>
 	<message key="submission.event.backToEventLog">Zurück zum Ereignisprotokoll</message>
 	<message key="submission.event.confirmClearLog">Sind Sie sicher, dass Sie das Ereignisprotokoll zu diesem Beitrag löschen wollen?</message>
 	<message key="submission.event.confirmDeleteLogEntry">Sind Sie sicher, dass Sie diesen Eintrag im Ereignisprotokoll löschen wollen</message>
