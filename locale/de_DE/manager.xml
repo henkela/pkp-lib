@@ -214,6 +214,7 @@
 	<message key="manager.setup.competingInterests">Interessenkonflikte</message>
 	<message key="manager.setup.competingInterestsDescription">Gutachter/innen werden aufgefordert, den Richtlinien zur Offenlegung von Interessenkonflikten zu entsprechen, die Sie unten angeben.</message> <!-- FIXME #6843 (JM): should this just reference reviewers? -->
 	<message key="manager.setup.groupType">Dateitypgruppierung</message>
+	<message key="manager.setup.journalThumbnail.description">Fügen Sie ein Vorschaubild für diese Zeitschrift hinzu.</message>
 	<message key="manager.setup.reviewOptions.numWeeksPerResponse">Zeit für Antwort auf Begutachtungsanfrage (Wochen)</message>
 	<message key="manager.setup.reviewOptions.numWeeksPerReview">Zeit für Abschluss des Gutachtens (Wochen)</message>
 	<message key="manager.setup.reviewOptions.neverSendReminder">Nie erinnern</message>
@@ -279,6 +280,7 @@
 	<message key="manager.statistics.statistics.count.value">{$count} ({$percentage}%)</message>
 	<message key="manager.statistics.statistics.totalNewValue">{$numTotal} ({$numNew} Neue)</message>
 	<message key="manager.users">Benutzer/innen</message>
+	<message key="manager.website.archiving">Archivierung</message>
 	<message key="plugins.categories.metadata">Metadaten-Plug-Ins</message>
 	<message key="plugins.categories.metadata.description">Metadaten-Plug-Ins implementieren zusätzliche Metadaten-Standards.</message>
 	<message key="plugins.categories.auth">Plug-Ins für Zugangsberechtigungen</message>

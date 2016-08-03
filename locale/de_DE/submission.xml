@@ -250,6 +250,7 @@
 	<message key="submission.comments.subject">Gegenstand</message>
 	<message key="submission.complete">Abgeschlossen</message>
 	<message key="submission.contributors">Liste der Beiträger/innen</message>
+	<message key="submission.confirmSubmit">Sind Sie sicher, dass Sie den Artikel nun einreichen wollen?</message>
 	<message key="submission.copyedited">Lektoriert</message>
 	<message key="submission.copyediting">Lektorat</message>
 	<message key="submission.coverage">Informationen zum Themenbereich</message>
@@ -412,6 +413,8 @@
 	<message key="submission.submit.metadataForm.tip">Fügen Sie zusätzliche Informationen für Ihre Einreichung hinzu. Drücken Sie 'Enter' nach jedem Begriff.</message>
 	<message key="submission.submit.submissionLocale">Beitragssprache</message>
 	<message key="submission.submit.submissionLocaleDescription">Dieser Verlag nimmt Beiträge in verschiedenen Sprachen entgegen. Wählen Sie die primäre Sprache des Beitrags aus dem Auswahlmenü unten.</message>
+ 	<message key="submission.submit.submissionChecklist">Checkliste für Beiträge</message>
+	<message key="submission.submit.submissionChecklistDescription">Stellen Sie sicher, dass alle Punkte der Checkliste erfüllt sind, bevor Sie fortfahren.</message>
 	<message key="submission.submit.submissionFiles">Beitragssdateien</message>
 	<message key="submission.submit.dependentFiles">Abhängige Dateien</message>
 	<message key="submission.manageDependentFiles">Abhängige Dateien verwalten</message>
@@ -421,6 +424,7 @@
 	<message key="submission.supportingAgencies">Unterstützung</message>
 	<message key="submission.currentAgencies">Aktuelle Organisationen</message>
 	<message key="submission.indexingInformation">Indizierungsinformationen</message>
+	<message key="submission.title">Beitrag einreichen</message>
 	<message key="submission.titleAndAbstract">Titel und Abstract</message>
 	<message key="submission.type.tip"><![CDATA[Der Einreichungstyp ist normalerweise 'image', 'text' oder ein anderer multimedialer Typ inklusive 'software' oder 'interactive'.  Bitte wählen Sie den passendsten Typ für Ihre Einreichung aus. Beispiele können Sie unter <a target="_blank" href="http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type">http://dublincore.org/documents/2001/04/12/usageguide/generic.shtml#type</a> finden.]]></message>
 	<message key="submission.underway">In Arbeit</message>
@@ -436,9 +440,9 @@
 	<message key="submission.date.mmdd">MM-TT</message>
 	<message key="submission.date.yyyymmdd">JJJJ-MM-TT</message>
 	<message key="submission.submit.selectPrincipalContact">Hauptkontakt für die redaktionelle Korrespondenz.</message>
-	<message key="submission.submit.contributorRole">Rolle des Beiträgers/der Beiträgerin</message>
-	<message key="submission.submit.addAuthor">Beiträger/in hinzufügen</message>
-
+	<message key="submission.submit.contributorRole">Rolle des Mitautors/der Mitautorin</message>
+	<message key="submission.submit.addAuthor">Mitautor/in hinzufügen</message>
+	<message key="submission.submit.title">Beitrag einreichen</message>
 	<!-- Submission file upload form elements -->
 	<message key="submission.form.name">Bitte geben Sie dieser Datei einen aussagefähigen Namen.</message>
 	<message key="submission.form.replaceExisting">Eine existierende Datei ersetzen?</message>
@@ -461,7 +465,7 @@
 	<message key="submission.submit.fileNameRequired">Sie müssen einen Namen für diese Datei eingeben</message>
 	<message key="submission.submit.howToSubmit"><![CDATA[Sind Schwierigkeiten aufgetreten? Kontaktieren Sie <a href="mailto:{$supportEmail}">{$supportName}</a> ({$supportPhone}).]]></message>
 	<message key="submission.submit.howToSubmitNoPhone"><![CDATA[Sind Schwierigkeiten aufgetreten? Kontaktieren Sie <a href="mailto:{$supportEmail}">{$supportName}</a>.]]></message>
-
+	
 	<!-- File upload wizard -->
 	<message key="submission.upload.noGenre">Genre fehlt oder ist ungültig!</message>
 	<message key="submission.upload.invalidUserGroup">Benutzer/innengruppe fehlt oder ist ungültig!</message>
@@ -469,6 +473,8 @@
 	<message key="submission.upload.possibleRevisionDescription"><![CDATA[<p>Der Name der hochgeladenen Datei ähnelt dem Namen der zuvor hochgeladenen Datei "{$revisedFileName}". Wenn die jetzt hochgeladene Datei die frühere ersetzen soll, wählen Sie bitte die zu ersetzende Datei im Pulldown-Menü aus. Wenn die hochgeladene Datei keine frühere Datei ersetzen soll, wählen Sie bitte "Datei auswählen (um Historie intakt zu lassen)."</p>]]></message>
 	<message key="submission.upload.selectMandatoryFileToRevise">Bitte wählen Sie die Datei aus, die Sie überarbeiten/ersetzen wollen.</message>
 	<message key="submission.upload.selectOptionalFileToRevise">Wenn Sie eine überarbeitete Fassung einer existierenden Datei hochladen, geben Sie bitte an, welche Datei.</message>
+	<message key="submission.upload.selectComponent">Wählen Sie den Dateityp</message>
+	<message key="submission.upload.fileContents">Dateityp</message>
 	<message key="submission.upload.uploadNewFile">Datei auswählen (um Historie intakt zu lassen)</message>
 	<message key="submission.upload.userGroup">Diese Datei hochladen in meiner 
 	Rolle als ...</message>

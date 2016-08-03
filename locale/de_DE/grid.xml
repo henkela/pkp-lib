@@ -251,6 +251,7 @@
 	<message key="grid.userGroup.removed">Rolle {$userGroupName} entfernt.</message>
 	<message key="grid.userGroup.assignedStage">Rolle {$userGroupName} der Phase {$stageName} zugeordnet.</message>
 	<message key="grid.userGroup.unassignedStage">Rolle {$userGroupName} nicht länger der Phase {$stageName} zugeordnet.</message>
+	<message key="grid.action.addIssue">Ausgabe hinzufügen</message>
 	<message key="grid.action.addNote">Notiz hinzufügen</message>
 	<message key="grid.action.addQuery">Diskussion hinzufügen</message>
 	<message key="grid.action.readQuery">Diskussion lesen</message>

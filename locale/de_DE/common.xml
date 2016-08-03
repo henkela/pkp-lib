@@ -137,6 +137,7 @@
 	<message key="common.fullscreenOff">Vollbild aus</message>
 	<message key="common.false">Falsch</message>
 	<message key="common.file">Datei</message>
+	<message key="common.file.namingPattern">{$username}, {$userGroup}, {$originalFilename}</message>
 	<message key="common.fileName">Dateiname</message>
 	<message key="common.fileSize">Dateigröße</message>
 	<message key="common.fileType">Dateityp</message>
